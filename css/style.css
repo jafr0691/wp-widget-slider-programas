@@ -1,0 +1,17 @@
+.widget-containerp {
+  padding: 0 !important;
+}
+.widgetp { position:relative; margin: auto; font-size:10px; border-radius:0px; -moz-border-radius:0px;font-family: 'Open Sans', sans-serif;overflow: hidden;}
+.widgetp a {color: #333; text-decoration: none;}
+.widgetp a:hover {color: #333; text-decoration: underline;}
+.slideshowprorama {position:absolute;top: 0px; left:0px; margin:0; overflow: hidden;}
+.slideshowprograma div img { padding: 0px 0px 0px 0px; display: block; border: 0px;-webkit-transition: all 1s ease;-moz-transition: all 1s ease;-o-transition: all 1s ease;-ms-transition: all 1s ease;transition: all 1s ease;}
+.imgnavp {text-align:center;vertical-align:middle;}
+.imgnavp a {position: absolute; text-indent: -5000px; display: block; z-index:203;}
+.imgnavp	a.textp {background:#fff;color:#111;text-indent: 0px; width:100%;bottom:1px; left: 0px; cursor:pointer;text-align:center; z-index:202;}
+.imgnavp div.barp {opacity:0.98;position:absolute;color:#fff;text-indent:0px;height:22px;width:100%;bottom:0px; left: 0px; cursor:pointer;text-align:center;z-index:202; }
+.imgnavp a.previousp 	{width: 50px;cursor:pointer;}
+.imgnavp a.nextp 	   	{width: 50px;cursor:pointer;}
+.imgnavp a.pausep		{background: url(img/pause.png) no-repeat center 50%; height: 22px; width: 16px; bottom: 0px; left:142px;cursor:pointer;}.imgnav a.next:hover, a.previous:hover, a.pause:hover {transform: scale(1.25);}
+
+.paperdatep{opacity:0.8;-moz-transform:translate(-5px,10px) rotate(-45deg);-webkit-transform:translate(-5px,10px) rotate(-45deg);background:#E00;color:#FFF;padding:1px 10px;position:absolute;text-decoration:none;transform:translate(-5px,10px) rotate(-45deg);z-index:20;}
