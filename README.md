@@ -7,12 +7,12 @@
 
 **Imagenen de como se agregan los nuevos programa**
 
-![Panel de las imagenes de los programas](https://github.com/jafr0691/wp-widget-slider-programas/blob/master/imgReadme/WidgetProgramasAgregados.jpg)
+![Panel de las imagenes de los programas](https://github.com/jafr0691/wp-widget-slider-programas/blob/master/imgReadme/WidgetProgramasMultipleAgregados.jpg)
 
 
 **Imagenen de como se van guardado uno por uno los programas**
 
-![Panel de las imagenes de los programas](https://github.com/jafr0691/wp-widget-slider-programas/blob/master/imgReadme/WidgetProgramasMultiAgregar.jpg)
+![Panel de las imagenes de los programas](https://github.com/jafr0691/wp-widget-slider-programas/blob/master/imgReadme/WidgetProgramasListMultiAgregar.jpg)
 
 
 **Imagenen de como se configura el widget de los programas para editar los colores el estilo del slider y longitudes**
